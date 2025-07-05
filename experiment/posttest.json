@@ -2,37 +2,54 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "At higher soil pH, most phosphorus is in the form of",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Calcium compounds",
+        "b": "Sulfur compounds",
+        "c": "Potassium compounds",
+        "d": "Phosphorus compounds"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Phosphorus binds with calcium at higher pH.",
+        "b": "Sulfur compounds are unrelated to phosphorus availability.",
+        "c": "Potassium compounds are separate nutrients.",
+        "d": "Too general; specific compounds are formed."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Maximum phosphorus availability is at a pH range ..........",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "5.7 - 6.5",
+        "b": "7.2 – 8.3",
+        "c": "6.5 – 7.0",
+        "d": "4.5 – 5.9"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Good range, but not optimal.",
+        "b": "Too alkaline for maximum phosphorus availability.",
+        "c": "Optimal range for phosphorus availability.",
+        "d": "Too acidic for most phosphorus forms."
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is a major component of soil?",
+      "answers": {
+        "a": "Soil air",
+        "b": "Organic matter",
+        "c": "Soil water",
+        "d": "Mineral matter"
+      },
+      "explanations": {
+        "a": "Important but not the largest portion.",
+        "b": "Vital but smaller in quantity.",
+        "c": "Essential for processes, but less volume.",
+        "d": "Makes up the largest percentage of soil by volume."
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
