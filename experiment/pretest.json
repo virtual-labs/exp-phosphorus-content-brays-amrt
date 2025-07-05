@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Phosphorus exists in soil as............",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Phosphate",
+        "b": "Phosphides",
+        "c": "Elementary Phosphorus",
+        "d": "Phosphanes"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Phosphates are the primary form of phosphorus in soil.",
+        "b": "Phosphides are not common in soil.",
+        "c": "Elementary phosphorus is not typically found in soil.",
+        "d": "Phosphanes are not common in soil."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In which form is phosphorus absorbed by plants from soil?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "H3PO3",
+        "b": "P4S10",
+        "c": "HPO2",
+        "d": "H2PO4-"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "H3PO3 is not absorbed by plants.",
+        "b": "P4S10 is not a plant-available form.",
+        "c": "HPO2 is not absorbed by plants.",
+        "d": "H2PO4- is one of the main forms absorbed by plants."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]

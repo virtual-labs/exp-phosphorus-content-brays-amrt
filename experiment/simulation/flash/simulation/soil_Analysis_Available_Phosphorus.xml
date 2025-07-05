@@ -1,0 +1,1172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+	<TEXTVALUE>Click on each apparatus/reagents to know its name or click on “Continue” to start the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="64pour">
+	<TEXT ID="64pour_one">
+	<TEXTVALUE>Measure 15 ml 1N Ammonium Fluoride.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="65closeup">
+	<TEXT ID="65closeup_one">
+	<TEXTVALUE>Measure 15 ml 1N Ammonium Fluoride.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="66closeup">
+	<TEXT ID="66closeup_one">
+	<TEXTVALUE>And is transferred into the beaker containing 450 ml distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="67replacit">
+	<TEXT ID="67replacit_one">
+	<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="67acloseupnew">
+	<TEXT ID="67acloseupnew_one">
+	<TEXTVALUE>To that add 25 mL 0.5 N HCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="67bcloseupnew">
+	<TEXT ID="67bcloseupnew_one">
+	<TEXTVALUE>To that add 25 mL 0.5 N HCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="68mixwithrod">
+	<TEXT ID="68mixwithrod_one">
+	<TEXTVALUE>Mix it well using a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="68opnbotl">
+	<TEXT ID="68opnbotl_one">
+	<TEXTVALUE>Open a polyethylene bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="69tkbkr">
+	<TEXT ID="69tkbkr_one">
+	<TEXTVALUE>Keep this solution in a polyethylene bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="70porit">
+	<TEXT ID="70porit_one">
+	<TEXTVALUE>Keep this solution in a polyethylene bottle. And label the bottle as "Extracting Solution".</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="71tk500bkr">
+	<TEXT ID="71tk500bkr_one">
+	<TEXTVALUE>Preparation of Dickman and Bray’s Reagent: Place a beaker above the balance and tare.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="72tkpdr">
+	<TEXT ID="72tkpdr_one">
+	<TEXTVALUE>Using a spatula transfer some ammonium molybdate from the bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="73tkdrpbkr">
+	<TEXT ID="73tkdrpbkr_one">
+	<TEXTVALUE>Transfer the ammonium molybdate into the beaker till the balance reading reaches 15 gm.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="74plcit">
+	<TEXT ID="74plcit_one">
+	<TEXTVALUE>Take the beaker containing ammonium molybdate from the balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="75tkwtr">
+	<TEXT ID="75tkwtr_one">
+	<TEXTVALUE>Measure 300 ml distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="76purinjar">
+	<TEXT ID="76purinjar_one">
+	<TEXTVALUE>Measure 300 ml distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="77jarclosup">
+	<TEXT ID="77jarclosup_one">
+	<TEXTVALUE>Measure 300 ml distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="78drponbkr">
+	<TEXT ID="78drponbkr_one">
+	<TEXTVALUE>Add this water into ammonium molybdate</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="79replacit">
+	<TEXT ID="79replacit_one">
+	<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="80tkrod">
+	<TEXT ID="80tkrod_one">
+	<TEXTVALUE>Take a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="81rollit">
+	<TEXT ID="81rollit_one">
+	<TEXTVALUE>Stir it well to dissolve.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="82heatit">
+	<TEXT ID="82heatit_one">
+	<TEXTVALUE>And warm to about 60°C.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="83replcit">
+	<TEXT ID="83replcit_one">
+	<TEXTVALUE>Cool it for sometime.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="84opnflask">
+	<TEXT ID="84opnflask_one">
+	<TEXTVALUE>Collect the filtrate in a 1L standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="85tkfnal">
+	<TEXT ID="85tkfnal_one">
+	<TEXTVALUE>Collect the filtrate in a 1L standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="86plcfnal">
+	<TEXT ID="86plcfnal_one">
+	<TEXTVALUE>Collect the filtrate in a 1L standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="87tkwtr">
+	<TEXT ID="87tkwtr_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="88tkwtr">
+	<TEXT ID="88tkwtr_one">
+	<TEXTVALUE>Pour the ammonium molybdate through a glass rod and collect filtrate in standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="89recapit">
+	<TEXT ID="89recapit_one">
+	<TEXTVALUE>Remove the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="90tkhcl">
+	<TEXT ID="90tkhcl_one">
+	<TEXTVALUE>Add 34.2 ml Con. HCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="91purhcl">
+	<TEXT ID="91purhcl_one">
+	<TEXTVALUE>Add 34.2 ml Con. HCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="92replaceit">
+	<TEXT ID="92replaceit_one">
+	<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="93tkit">
+	<TEXT ID="93tkit_one">
+	<TEXTVALUE>Shake the contents of the flask to mix.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="94shakit">
+	<TEXT ID="94shakit_one">
+	<TEXTVALUE>Shake the contents of the flask to mix.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="95replacit">
+	<TEXT ID="95replacit_one">
+	<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="96tkditwtr">
+	<TEXT ID="96tkditwtr_one">
+	<TEXTVALUE>Make up the solution using distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="97purit">
+	<TEXT ID="97purit_one">
+	<TEXTVALUE>Make up the solution using distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="98replaceit">
+	<TEXT ID="98replaceit_one">
+	<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="99tkforshak">
+	<TEXT ID="99tkforshak_one">
+	<TEXTVALUE>Close the standard flask using a lid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="100shakit">
+	<TEXT ID="100shakit_one">
+	<TEXTVALUE>Shake well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="101leblit">
+	<TEXT ID="101leblit_one">
+	<TEXTVALUE>Label the standard flask as “Dickman and Bray’s Reagent” and keep.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="102onbalanc">
+	<TEXT ID="102onbalanc_one">
+	<TEXTVALUE>Place a butter paper into the balance and tare.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="103tkpwr">
+	<TEXT ID="103tkpwr_one">
+	<TEXTVALUE>Using a spatula takes some Potassium Dihydrogen Phosphate from the bottle.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="103tkpwr_two">
+	<TEXTVALUE>Weigh 0.439 g Potassium Dihydrogen Phosphate accurately.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="104tkit">
+	<TEXT ID="104tkit_one">
+	<TEXTVALUE>Take the butter paper containing substance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="105pdrdrop">
+	<TEXT ID="105pdrdrop_one">
+	<TEXTVALUE>Transfer the Potassium Dihydrogen Phosphate into 500 mL standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="106tkH²SO4">
+	<TEXT ID="106tkH²SO4_one">
+	<TEXTVALUE>Add 25 mL con: H₂SO₄.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="107drop">
+	<TEXT ID="107drop_one">
+	<TEXTVALUE>Add 25 mL con: H₂SO₄.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="108replacit">
+	<TEXT ID="108replacit_one">
+	<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="109tkwtr">
+	<TEXT ID="109tkwtr_one">
+	<TEXTVALUE>Add small amount of water from the wash bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="110dropinflask">
+	<TEXT ID="110dropinflask_one">
+	<TEXTVALUE>Add small amount of water from the wash bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="111replcit">
+	<TEXT ID="111replcit_one">
+	<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="112tkliquid">
+	<TEXT ID="112tkliquid_one">
+	<TEXTVALUE>Shake to dissolve.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="113shakit">
+	<TEXT ID="113shakit_one">
+	<TEXTVALUE>Shake well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="114replcit">
+	<TEXT ID="114replcit_one">
+	<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="115tkwtr">
+	<TEXT ID="115tkwtr_one">
+	<TEXTVALUE>Make up the solution using distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="116purit">
+	<TEXT ID="116purit_one">
+	<TEXTVALUE>Make up the solution using distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="117replcit01">
+	<TEXT ID="117replcit01_one">
+	<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="118tkforshak01">
+	<TEXT ID="118tkforshak01_one">
+	<TEXTVALUE>Close the standard flask using a lid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="119shkwell">
+	<TEXT ID="119shkwell_one">
+	<TEXTVALUE>And shake well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="120Replacit">
+	<TEXT ID="120Replacit_one">
+	<TEXTVALUE>Shake well and keep.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="121fixtube">
+	<TEXT ID="121fixtube_one">
+	<TEXTVALUE>Take a 2 ml pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="122TK2ML">
+	<TEXT ID="122TK2ML_one">
+	<TEXTVALUE>Using that Pipette take 2 ml solution from the 500 ml standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="123drop2ml">
+	<TEXT ID="123drop2ml_one">
+	<TEXTVALUE>Transfer that into a 100 ml standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="124tkwtr">
+	<TEXT ID="124tkwtr_one">
+	<TEXTVALUE>Make up the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="125dropwtr">
+	<TEXT ID="125dropwtr_one">
+	<TEXTVALUE>Add distilled water up to the mark of the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="126closlid">
+	<TEXT ID="126closlid_one">
+	<TEXTVALUE>Close the standard flask using a lid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="127tkforshak">
+	<TEXT ID="127tkforshak_one">
+	<TEXTVALUE>Shake well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="128shkwell2">
+	<TEXT ID="128shkwell2_one">
+	<TEXTVALUE>Shake well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="129replaceit">
+	<TEXT ID="129replaceit_one">
+	<TEXTVALUE>Label it as “Standard Phosphorus solution” and keep.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="130plceppr">
+	<TEXT ID="130plceppr_one">
+	<TEXTVALUE>Extraction: Place a butter paper in the electronic balance and Tare.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="131pur">
+	<TEXT ID="131pur_one">
+	<TEXTVALUE>Using spatula take some soil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="132zoomit">
+	<TEXT ID="132zoomit_one">
+	<TEXTVALUE>Transfer the soil into the butter paper and weigh 5 g soil accurately.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="133tksol">
+	<TEXT ID="133tksol_one">
+	<TEXTVALUE>Remove the butter paper containing soil from the balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="134prinflask">
+	<TEXT ID="134prinflask_one">
+	<TEXTVALUE>And transfer the soil into a 100 ml conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="135opnbtl">
+	<TEXT ID="135opnbtl_one">
+	<TEXTVALUE>Measure 50 ml extracting solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="136put">
+	<TEXT ID="136put_one">
+	<TEXTVALUE>Measure 50 ml extracting solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="137zoomit">
+	<TEXT ID="137zoomit_one">
+	<TEXTVALUE>Measure 50 ml extracting solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="138erplacbottle">
+	<TEXT ID="138erplacbottle_one">
+	<TEXTVALUE>And add this extracting solution to soil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="139tkit">
+	<TEXT ID="139tkit_one">
+	<TEXTVALUE>And add this extracting solution to soil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="140droponflask">
+	<TEXT ID="140droponflask_one">
+	<TEXTVALUE>And add this extracting solution to soil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="141shakflask">
+	<TEXT ID="141shakflask_one">
+	<TEXTVALUE>Shake the content for exact 5 minutes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="142placefnal">
+	<TEXT ID="142placefnal_one">
+	<TEXTVALUE>And filter through Whatman No.42 filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="143placbkr">
+	<TEXT ID="143placbkr_one">
+	<TEXTVALUE>Keep the beaker under the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="144placbkr">
+	<TEXT ID="144placbkr_one">
+	<TEXTVALUE>Pour the solution through glass rod and collect the clear solution in a beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="145prtrufnal">
+	<TEXT ID="145prtrufnal_one">
+	<TEXTVALUE>Pour the solution through glass rod and collect the clear solution in a beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="146tkit">
+	<TEXT ID="146tkit_one">
+	<TEXTVALUE>Label the beaker as “Soil Extract”.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="147lbalassol">
+	<TEXT ID="147lbalassol_one">
+	<TEXTVALUE>Label the beaker as “Soil Extract”.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="148dysply">
+	<TEXT ID="148dysply_one">
+	<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="149fixppt">
+	<TEXT ID="149fixppt_one">
+	<TEXTVALUE>Take a 5 ml pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="150tkwithppt">
+	<TEXT ID="150tkwithppt_one">
+	<TEXTVALUE>Pipette 5 ml soil extract.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="151opnsampl">
+	<TEXT ID="151opnsampl_one">
+	<TEXTVALUE>And pipette out this 5 ml soil extract into one 25mL standard flask which is  labeled as “SAMPLE”.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="1525mlflask">
+	<TEXT ID="1525mlflask_one">
+	<TEXTVALUE>And pipette out this 5 ml soil extract into one 25mL standard flask which is  labeled as “SAMPLE”.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="1535mlflask">
+	<TEXT ID="1535mlflask_one">
+	<TEXTVALUE>Take 5 ml “Dickman and Bray’s Reagent” using a clean 5 ml pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="154replaceit">
+	<TEXT ID="154replaceit_one">
+	<TEXTVALUE>Close the lid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="155dropinspl">
+	<TEXT ID="155dropinspl_one">
+	<TEXTVALUE>And transfer into 25 ml standard flask which contain the Soil extract.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="156tkit">
+	<TEXT ID="156tkit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="157prinspl">
+	<TEXT ID="157prinspl_one">
+	<TEXTVALUE>To that add 7.5 ml boric acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="158replacit">
+	<TEXT ID="158replacit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="159tkwtr">
+	<TEXT ID="159tkwtr_one">
+	<TEXTVALUE>Take a test tube full of distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="160pruinside">
+	<TEXT ID="160pruinside_one">
+	<TEXTVALUE>And add through the neck of the flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="161replactube">
+	<TEXT ID="161replactube_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="162tksample">
+	<TEXT ID="162tksample_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="163shakand">
+	<TEXT ID="163shakand_one">
+	<TEXTVALUE>Mix thoroughly the content and keep.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="164replacit">
+	<TEXT ID="164replacit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="165tkburt">
+	<TEXT ID="165tkburt_one">
+	<TEXTVALUE>Take a clean burette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="166opnburt">
+	<TEXT ID="166opnburt_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="167tkflask">
+	<TEXT ID="167tkflask_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="168filburt">
+	<TEXT ID="168filburt_one">
+	<TEXTVALUE>Rinse and fill the burette using the standard phosphorus solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="169replacit">
+	<TEXT ID="169replacit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="170opnburt">
+	<TEXT ID="170opnburt_one">
+	<TEXTVALUE>And adjust the level up to the zero mark.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="171opntop">
+	<TEXT ID="171opntop_one">
+	<TEXTVALUE>And adjust the level up to the zero mark and keep.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="172replacit">
+	<TEXT ID="172replacit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="173tk0.2">
+	<TEXT ID="173tk0.2_one">
+	<TEXTVALUE>Take the standard flask which is labeled as 0.2.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="174plcunderthebrt">
+	<TEXT ID="174plcunderthebrt_one">
+	<TEXTVALUE>Place it below the burette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="175oppnit">
+	<TEXT ID="175oppnit_one">
+	<TEXTVALUE>Add 1ml Standard Phosphorus solution into the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="176tkfrit">
+	<TEXT ID="176tkfrit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="177replasit0.2">
+	<TEXT ID="177replasit0.2_one">
+	<TEXTVALUE>Keep it back.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="178tk0.4">
+	<TEXT ID="178tk0.4_one">
+	<TEXTVALUE>Take the standard flask which is labeled as 0.4.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="179plcunder0.4">
+	<TEXT ID="179plcunder0.4_one">
+	<TEXTVALUE>Place it below the burette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="178dropinr0.4">
+	<TEXT ID="178dropinr0.4_one">
+	<TEXTVALUE>Add 2ml Standard Phosphorus solution into the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="179arow">
+	<TEXT ID="179arow_one">
+	<TEXTVALUE>Add 3, 4, 5 ml “Standard Phosphorus solution” into the standard flasks which labeled as 0.6, 0,8 and 1 respectively.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="180disply">
+	<TEXT ID="180disply_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="181tkDiAndbry">
+	<TEXT ID="181tkDiAndbry_one">
+	<TEXTVALUE>Using a 5 ml pipette pipette out 5 ml “Dickman and Bray’s Reagent”.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="182purto0.2">
+	<TEXT ID="182purto0.2_one">
+	<TEXTVALUE>And transfer that into standard flask which is labelled as 0.2.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="183tkDiAndbryagain">
+	<TEXT ID="183tkDiAndbryagain_one">
+	<TEXTVALUE>Pipette out 5 mL “Dickman and Bray’s Reagent”.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="184tranfrmflask">
+	<TEXT ID="184tranfrmflask_one">
+	<TEXTVALUE>And transfer that into standard flasks which are labelled as 0.4, 0.6, 0.8 and 1.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="185tkboricacid">
+	<TEXT ID="185tkboricacid_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="186dropin0.2">
+	<TEXT ID="186dropin0.2_one">
+	<TEXTVALUE>Add 7.5 ml boric acid into the standard flask which is labelled as 0.2.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="187tranfrmflaskjar">
+	<TEXT ID="187tranfrmflaskjar_one">
+	<TEXTVALUE>Add 7.5 ml boric acid into each standard flask..</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="188tkwtr02">
+	<TEXT ID="188tkwtr02_one">
+	<TEXTVALUE>Take a test tube full of distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="189pruinsidere">
+	<TEXT ID="189pruinsidere_one">
+	<TEXTVALUE>And add through the neck of the flask down to remove the adhering ammonium molybdate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="190pruin1">
+	<TEXT ID="190pruin1_one">
+	<TEXTVALUE>And add through the neck of the flask down to remove the adhering ammonium molybdate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="191replactube01">
+	<TEXT ID="191replactube01_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="192tk02">
+	<TEXT ID="192tk02_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="193shakand03">
+	<TEXT ID="193shakand03_one">
+	<TEXTVALUE>Mix thoroughly the content and keep.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="194replcit">
+	<TEXT ID="194replcit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="195tkni1">
+	<TEXT ID="195tkni1_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="196shakand01">
+	<TEXT ID="196shakand01_one">
+	<TEXTVALUE>Mix thoroughly the content and keep.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="197replaceit">
+	<TEXT ID="197replaceit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="198replaceit">
+	<TEXT ID="198replaceit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="199tksolution">
+	<TEXT ID="199tksolution_one">
+	<TEXTVALUE>Take the extracting solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="200pur5ml">
+	<TEXT ID="200pur5ml_one">
+	<TEXTVALUE>Pour 5 ml Extracting Solution from the labeled polyethylene bottle into the measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="201tkit">
+	<TEXT ID="201tkit_one">
+	<TEXTVALUE>Pour 5 ml Extracting Solution from the labeled polyethylene bottle into the measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="202drpit">
+	<TEXT ID="202drpit_one">
+	<TEXTVALUE>Transfer this extracting solution into the 25 ml standard flask which is labeled as “BLANK”.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="203replacit03">
+	<TEXT ID="203replacit03_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="204fitppt">
+	<TEXT ID="204fitppt_one">
+	<TEXTVALUE>Take a 5 ml pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="205tkDiAndbry02">
+	<TEXT ID="205tkDiAndbry02_one">
+	<TEXTVALUE>Take 5 ml “Dickman and Bray’s Reagent” using 5 ml pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="206purto0.2nd">
+	<TEXT ID="206purto0.2nd_one">
+	<TEXTVALUE>And transfer that into standard flask which is labeled as “BLANK”.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="207purto0.2nd">
+	<TEXT ID="207purto0.2nd_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="208purtoblank">
+	<TEXT ID="208purtoblank_one">
+	<TEXTVALUE>Add 7.5 ml boric acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="209replaceit">
+	<TEXT ID="209replaceit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="210tkwtr">
+	<TEXT ID="210tkwtr_one">
+	<TEXTVALUE>Take a test tube full of distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="211tkprinmrla">
+	<TEXT ID="211tkprinmrla_one">
+	<TEXTVALUE>And add through the neck of the flask down to remove the adhering ammonium molybdate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="212replactstb">
+	<TEXT ID="212replactstb_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="213tkblank">
+	<TEXT ID="213tkblank_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="214shakit">
+	<TEXT ID="214shakit_one">
+	<TEXTVALUE>Mix thoroughly the content.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="215replcti">
+	<TEXT ID="215replcti_one">
+	<TEXTVALUE>Mix thoroughly the content and keep.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="216fixit03">
+	<TEXT ID="216fixit03_one">
+	<TEXTVALUE>Take a 1 ml pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="217opnflask">
+	<TEXT ID="217opnflask_one">
+	<TEXTVALUE>Take 1 ml “Stannous Chloride Working Solution” using 1 ml pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="218closeit">
+	<TEXT ID="218closeit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="219dropinsample">
+	<TEXT ID="219dropinsample_one">
+	<TEXTVALUE>And transfer that into 25 ml standard flask which is labelled as SAMPLE.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="220opnflask">
+	<TEXT ID="220opnflask_one">
+	<TEXTVALUE>Take 1 ml “Stannous Chloride Working Solution” using 1 ml pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="221purinflask">
+	<TEXT ID="221purinflask_one">
+	<TEXTVALUE>And transfer that into ALL 25 ml standard flasks.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="222tkflask">
+	<TEXT ID="222tkflask_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="223purinflask">
+	<TEXT ID="223purinflask_one">
+	<TEXTVALUE>Using distilled water from the wash bottle fill the standard flask up to the mark.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="224fillwtr">
+	<TEXT ID="224fillwtr_one">
+	<TEXTVALUE>Using distilled water from the wash bottle fill ALL the standard flask up to the mark.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="225tksample">
+	<TEXT ID="225tksample_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="226shakit">
+	<TEXT ID="226shakit_one">
+	<TEXTVALUE>Mix thoroughly.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="227replaceit">
+	<TEXT ID="227replaceit_one">
+	<TEXTVALUE>Mix thoroughly and keep it for 10 minutes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="228tk1">
+	<TEXT ID="228tk1_one">
+	<TEXTVALUE>Measure the intensity of blue colour just after 10 minutes at 690 nm.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="229oppenit">
+	<TEXT ID="229oppenit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="230oppeblank">
+	<TEXT ID="230oppeblank_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="231tkqut">
+	<TEXT ID="231tkqut_one">
+	<TEXTVALUE>Take a cuvette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="233tkblank">
+	<TEXT ID="233tkblank_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="234fillqt">
+	<TEXT ID="234fillqt_one">
+	<TEXTVALUE>Take blank solution from the 25ml standared flask in the cuvette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="235replaceit">
+	<TEXT ID="235replaceit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="236replaceit">
+	<TEXT ID="236replaceit_one">
+	<TEXTVALUE>Wipe the cuvette using cotton.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="237oppenit">
+	<TEXT ID="237oppenit_one">
+	<TEXTVALUE>Open the lid of the spectrophotometer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="238plceit">
+	<TEXT ID="238plceit_one">
+	<TEXTVALUE>Place the cuvette containing Blank solution into the spectrometer and close the lid, Click on ‘ABS 100%T button’, to adjust the reading as 0.00000 A. Click on the ‘nm button’ to adjust the wavelength to 690 nm.
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="239plceit">
+	<TEXT ID="239plceit_one">
+	<TEXTVALUE>Open the lid and remove the cuvette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="240replaceit">
+	<TEXT ID="240replaceit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="241tk0.2">
+	<TEXT ID="241tk0.2_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="242tkqut01">
+	<TEXT ID="242tkqut01_one">
+	<TEXTVALUE>Take a new clean cuvette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="243fillq02">
+	<TEXT ID="243fillq02_one">
+	<TEXTVALUE>1Take the solution in cuvette from standard flask which is labeled as 0.2.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="244replace0.2">
+	<TEXT ID="244replace0.2_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="245replaceit02">
+	<TEXT ID="245replaceit02_one">
+	<TEXTVALUE>Wipe the cuvette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="246oppenit02">
+	<TEXT ID="246oppenit02_one">
+	<TEXTVALUE>Open the lid of the spectrophotometer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="247plceit02">
+	<TEXT ID="247plceit02_one">
+	<TEXTVALUE>Place the cuvette in it and close the lid.Then the spectrometer shows the reading as 0.0500 A.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="248table">
+	<TEXT ID="248table_one">
+	<TEXTVALUE>Repeat it for all Concentrations.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="249graph">
+	<TEXT ID="249graph_one">
+	<TEXTVALUE>Plot a graph between absorbance against the concentration in ppm.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="250eqation">
+	<TEXT ID="250eqation_one">
+	<TEXTVALUE>Determine the concentration of P in soil samples from the standard curve.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
