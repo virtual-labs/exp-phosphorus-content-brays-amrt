@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Phosphorus exists in soil as............",
+      "answers": {
+        "a": "Phosphate",
+        "b": "Phosphides",
+        "c": "Elementary Phosphorus",
+        "d": "Phosphanes"
+      },
+      "explanations": {
+        "a": "Phosphates are the primary form of phosphorus in soil.",
+        "b": "Phosphides are not common in soil.",
+        "c": "Elementary phosphorus is not typically found in soil.",
+        "d": "Phosphanes are not common in soil."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In which form is phosphorus absorbed by plants from soil?",
+      "answers": {
+        "a": "H3PO3",
+        "b": "P4S10",
+        "c": "HPO2",
+        "d": "H2PO4-"
+      },
+      "explanations": {
+        "a": "H3PO3 is not absorbed by plants.",
+        "b": "P4S10 is not a plant-available form.",
+        "c": "HPO2 is not absorbed by plants.",
+        "d": "H2PO4- is one of the main forms absorbed by plants."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "At higher soil pH, most phosphorus is in the form of",
+      "answers": {
+        "a": "Calcium compounds",
+        "b": "Sulfur compounds",
+        "c": "Potassium compounds",
+        "d": "Phosphorus compounds"
+      },
+      "explanations": {
+        "a": "Phosphorus binds with calcium at higher pH.",
+        "b": "Sulfur compounds are unrelated to phosphorus availability.",
+        "c": "Potassium compounds are separate nutrients.",
+        "d": "Too general; specific compounds are formed."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Maximum phosphorus availability is at a pH range ..........",
+      "answers": {
+        "a": "5.7 - 6.5",
+        "b": "7.2 – 8.3",
+        "c": "6.5 – 7.0",
+        "d": "4.5 – 5.9"
+      },
+      "explanations": {
+        "a": "Good range, but not optimal.",
+        "b": "Too alkaline for maximum phosphorus availability.",
+        "c": "Optimal range for phosphorus availability.",
+        "d": "Too acidic for most phosphorus forms."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is a major component of soil?",
+      "answers": {
+        "a": "Soil air",
+        "b": "Organic matter",
+        "c": "Soil water",
+        "d": "Mineral matter"
+      },
+      "explanations": {
+        "a": "Important but not the largest portion.",
+        "b": "Vital but smaller in quantity.",
+        "c": "Essential for processes, but less volume.",
+        "d": "Makes up the largest percentage of soil by volume."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
